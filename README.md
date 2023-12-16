@@ -24,7 +24,7 @@ To explore the project:
 1. Open the Jupyter Notebook (`social_network_zhora_stepanyan.ipynb`) in Jupyter Notebook or JupyterLab.
 2. Follow the instructions and code cells in the notebook sequentially to understand the analysis steps and results.
 
-##Functions
+## Functions
 ### Functions Used in the Code
 
 #### `load_data_from_file(file_path)`
